@@ -21,3 +21,7 @@
 - Implement function triggers by using data operations, timers, and webhooks
 - Implement Azure Durable Functions
 - Create Azure Function apps by using Visual Studio
+
+## Videos
+
+[Azure Developer role-based exam prep: AZ-200 Core Solutions - BRK2436](https://www.youtube.com/watch?v=nWpNe5bbzz8)

@@ -1,23 +1,20 @@
-#### Create Azure App Service Web Apps
+#### Develop code to support scalability of apps and services
 
-- [Create an Azure App Service Web App](https://github.com/marcel-goedhart/blog/blob/master/azure-app-service-web-apps.md)
-- Create an Azure App Service background task by using WebJobs
-- Enable diagnostics logging
+- Implement autoscaling rules and patterns
+- Implement code that handles transient faults
 
-#### Create Azure App Service mobile apps
+#### Integrate caching and content delivery within solutions
 
-- Add push notifications for mobile apps
-- Enable offline sync for mobile app
-- Implement a remote instrumentation strategy for mobile devices
+- Store and retrieve data in Azure Redis cache
+- Develop code to implement CDNs in solutions
+- Invalidate cache content (CDN or Redis)
 
-#### Create Azure App Service API apps
+#### Instrument solutions to support monitoring and logging
 
-- Create an Azure App Service API app
-- Create documentation for the API by using open source and other tools
+- Configure instrumentation in an app or service by using Application Insights
+- Analyze and troubleshoot solutions by using Azure Monitor
+- Implement Application Insights Web Test and Alerts
 
-#### Implement Azure functions
+## Videos
 
-- Implement input and output bindings for a function
-- Implement function triggers by using data operations, timers, and webhooks
-- Implement Azure Durable Functions
-- Create Azure Function apps by using Visual Studio
+[Azure Developer role-based exam prep: AZ-200 Core Solutions - BRK2436](https://www.youtube.com/watch?v=nWpNe5bbzz8)

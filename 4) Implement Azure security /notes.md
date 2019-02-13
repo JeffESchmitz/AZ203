@@ -1,23 +1,21 @@
-#### Create Azure App Service Web Apps
+#### Implement authentication
 
-- [Create an Azure App Service Web App](https://github.com/marcel-goedhart/blog/blob/master/azure-app-service-web-apps.md)
-- Create an Azure App Service background task by using WebJobs
-- Enable diagnostics logging
+- Implement authentication by using certificates, forms-based authentication, or tokens
+- Implement multi-factor or Windows authentication by using Azure AD
+- Implement OAuth2 authentication
+- Implement Managed Service Identity (MSI)/Service Principal authentication
 
-#### Create Azure App Service mobile apps
+#### Implement access control
 
-- Add push notifications for mobile apps
-- Enable offline sync for mobile app
-- Implement a remote instrumentation strategy for mobile devices
+- Implement CBAC (Claims-Based Access Control) authorization
+- Implement RBAC (Role-Based Access Control) authorization
+- Create shared access signatures
 
-#### Create Azure App Service API apps
+#### Implement secure data solutions
 
-- Create an Azure App Service API app
-- Create documentation for the API by using open source and other tools
+- Encrypt and decrypt data at rest and in transit
+- Create, read, update, and delete keys, secrets, and certificates by using the KeyVault API
 
-#### Implement Azure functions
+## Videos
 
-- Implement input and output bindings for a function
-- Implement function triggers by using data operations, timers, and webhooks
-- Implement Azure Durable Functions
-- Create Azure Function apps by using Visual Studio
+[Azure Developer role-based exam prep: AZ-200 Core Solutions - BRK2436](https://www.youtube.com/watch?v=nWpNe5bbzz8)

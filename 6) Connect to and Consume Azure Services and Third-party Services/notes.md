@@ -1,23 +1,32 @@
-#### Create Azure App Service Web Apps
+#### Develop an App Service Logic App
 
-- [Create an Azure App Service Web App](https://github.com/marcel-goedhart/blog/blob/master/azure-app-service-web-apps.md)
-- Create an Azure App Service background task by using WebJobs
-- Enable diagnostics logging
+- Create a Logic App
+- Create a custom connector for Logic Apps
+- Create a custom template for Logic Apps
 
-#### Create Azure App Service mobile apps
+#### Integrate Azure Search within solutions
 
-- Add push notifications for mobile apps
-- Enable offline sync for mobile app
-- Implement a remote instrumentation strategy for mobile devices
+- Create an Azure Search index
+- Import searchable data
+- Query the Azure Search index
 
-#### Create Azure App Service API apps
+#### Establish API Gateways
 
-- Create an Azure App Service API app
-- Create documentation for the API by using open source and other tools
+- Create an APIM instance
+- Configure authentication for APIs
+- Define policies for APIs
 
-#### Implement Azure functions
+#### Develop event-based solutions
 
-- Implement input and output bindings for a function
-- Implement function triggers by using data operations, timers, and webhooks
-- Implement Azure Durable Functions
-- Create Azure Function apps by using Visual Studio
+- Implement solutions that use Azure Event Grid
+- Implement solutions that use Azure Notification Hubs
+- Implement solutions that use Azure Event Hub
+
+#### Develop message-based solutions
+
+- Implement solutions that use Azure Service Bus
+- Implement solutions that use Azure Queue Storage queues
+
+## Videos
+
+[Azure Developer role-based exam prep: AZ-200 Core Solutions - BRK2436](https://www.youtube.com/watch?v=nWpNe5bbzz8)

@@ -22,3 +22,7 @@
 - Set and retrieve properties and metadata
 - Implement blob leasing
 - Implement data archiving and retention
+
+## Videos
+
+[Azure Developer role-based exam prep: AZ-200 Core Solutions - BRK2436](https://www.youtube.com/watch?v=nWpNe5bbzz8)
