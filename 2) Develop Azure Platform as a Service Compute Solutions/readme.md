@@ -20,6 +20,7 @@
   - [Push notifications to iOS apps using Azure Notification Hub](https://docs.microsoft.com/en-us/azure/notification-hubs/notification-hubs-ios-apple-push-notification-apns-get-started)
   - [Azure Mobile Service](https://app.pluralsight.com/library/courses/windows-azure-mobile-services/table-of-contents)
 - Enable offline sync for mobile app
+  - [Xamarin example of OffLine Sync](https://github.com/linuxacademy/content-az203-files/tree/master/paas/mobile)
   - [Offline Data Sync in Azure Mobile Apps](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-offline-data-sync)
   - [Xamarin: TodoAzureAuthoOfflineSync](https://developer.xamarin.com/samples/xamarin-forms/WebServices/TodoAzureAuthOfflineSync/)
 - Implement a remote instrumentation strategy for mobile devices
@@ -29,6 +30,7 @@
 
 - Create an Azure App Service API app
   - [Host a RESTful API with CORS in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-rest-api)
+  - [Create from PowerShell](https://github.com/linuxacademy/content-az203-files/tree/master/paas/webapps)
 - Create documentation for the API by using open source and other tools
   - [Azure Functions with Swagger](https://blog.kloud.com.au/2017/06/13/azure-functions-with-swagger/)
 
@@ -40,7 +42,9 @@
 - Implement function triggers by using data operations, timers, and webhooks
   - [Trigger logic apps with Azure Functions and Azure Service Bus](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-scenario-function-sb-trigger)
   - [PluralSight: Azure Function Triggers Quick Start](https://app.pluralsight.com/library/courses/azure-function-triggers-quick-start/table-of-contents)
+  - [QueueTrigger Example](https://github.com/linuxacademy/content-az203-files/tree/master/paas/functions/queuetrigger)
 - Implement Azure Durable Functions
+  - [Azure Durable Functions](https://github.com/sivacoumar-delage/AZ-203/blob/master/Labs/Develop%20Azure%20Platform%20as%20a%20Service%20Compute%20Solutions/Implement%20Azure%20functions/4%20-%20Implement%20Azure%20Durable%20Functions.md)
   - [PluralSight: Azure Durable Functions Fundamentals](https://app.pluralsight.com/library/courses/azure-durable-functions-fundamentals/table-of-contents)
 - Create Azure Function apps by using Visual Studio
   - [Create your first function using Visual Studio](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio)
