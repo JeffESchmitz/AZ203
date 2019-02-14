@@ -1,4 +1,4 @@
-#### Develop solutions that use storage tables
+### Develop solutions that use storage tables
 
 [PluralSight: Implementing Table Storage](https://app.pluralsight.com/library/courses/microsoft-azure-table-storage-implementing/table-of-contents)
 [Azure Table storage overview](https://docs.microsoft.com/en-us/azure/cosmos-db/table-storage-overview)  
@@ -15,7 +15,7 @@
   - [Data partitioning strategies](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning-strategies)
   - [Horizontal, vertical, and functional data partitioning](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning)
 
-#### Develop solutions that use Cosmos DB storage
+### Develop solutions that use Cosmos DB storage
 
 [PluralSight: Learning Azure Cosmos DB](https://app.pluralsight.com/paths/certificate/developing-solutions-for-microsoft-azure-az-203)
 
@@ -29,7 +29,7 @@
   - [Consistency levels in Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels)
   - [Choose the right consistency level](https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels-choosing)
 
-#### Develop solutions that use a relational database
+### Develop solutions that use a relational database
 
 - Provision and configure relational databases
   - [Provision an Azure SQL database to store application data](https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/)
@@ -40,7 +40,7 @@
   - [Tutorial: .NET with SQL DB](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-dotnet-sqldatabase)
   - [Tutorial: .NET Core with SQL DB](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-dotnetcore-sqldb)
 
-#### Develop solutions that use blob storage
+### Develop solutions that use blob storage
 
 [PluralSight: Implementing Blob Storage](https://app.pluralsight.com/library/courses/microsoft-azure-blob-storage-implementing/table-of-contents)
 
@@ -56,6 +56,6 @@
   - [Azure Blob storage: Premium (preview), Hot, Cool, and Archive storage tiers](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-storage-tiers)
   - [Copying and Archiving Blobs](https://app.pluralsight.com/player?course=microsoft-azure-blob-storage-implementing&author=thomas-huber&name=5421ea08-86e7-466a-ac3a-a1c1b7a07eeb&clip=0&mode=live)
 
-## Videos
+### Videos
 
 [Azure Developer role-based exam prep: AZ-200 Core Solutions - BRK2436](https://www.youtube.com/watch?v=nWpNe5bbzz8)
