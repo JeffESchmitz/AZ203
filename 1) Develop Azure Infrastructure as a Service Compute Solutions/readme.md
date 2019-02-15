@@ -23,16 +23,25 @@
   - [PluralSight: Azure Batch Automation](https://app.pluralsight.com/player?course=microsoft-azure-batch-getting-started&author=alan-smith&name=cf141cd0-19c4-4af2-8f0f-376fcdec06b4&clip=0&mode=live)
   - [Quickstart: Run your first Batch job with the Azure CLI](https://docs.microsoft.com/en-us/azure/batch/quick-create-cli)
   - [Quickstart: Run your first Batch job in the Azure portal](https://docs.microsoft.com/en-us/azure/batch/quick-create-portal)
+- Write code to run an Azure Batch Services batch job
   - [Quickstart: Run your first Azure Batch job with the .NET API](https://docs.microsoft.com/en-us/azure/batch/quick-run-dotnet)
   - [Quickstart: Run your first Batch job with the Python API](https://docs.microsoft.com/en-us/azure/batch/quick-run-python)
-- Write code to run an Azure Batch Services batch job
 
 #### Create containerized solutions
 
 - Create an Azure Managed Kubernetes Service (AKS) cluster
+  - [Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using the Azure CLI](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough)
+  - [Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using the Azure portal](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough-portal)
+  - [PluralSight: Azure - Deploying and Managing Containers](https://app.pluralsight.com/library/courses/microsoft-azure-containers-deploying-managing/table-of-contents)
 - Create container images for solutions
+  - [Build and deploy container images in the cloud with Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-tutorial-quick-task)
+  - [Build and store container images with Azure Container Registry](https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/)
 - Publish an image to the Azure Container Registry
+  - [Push your first image to a private Docker container registry using the Docker CLI](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli)
+  - [Quickstart: Create a private container registry using the Azure portal](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-portal)
 - Run containers by using Azure Container Instance or AKS
+  - [Quickstart: Run a container application in Azure Container Instances with the Azure CLI](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart)
+  - [PluralSight: Running Containers on Azure Container Instances](https://app.pluralsight.com/player?course=microsoft-azure-containers-deploying-managing&author=mark-heath&name=7a0d7b98-19e9-4235-a15d-1ea4211e2a24&clip=0&mode=live)
 
 ## Videos
 
