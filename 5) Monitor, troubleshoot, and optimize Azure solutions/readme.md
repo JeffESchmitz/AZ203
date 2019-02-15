@@ -1,3 +1,5 @@
+### Monitor, troubleshoot, and optimize Azure solutions (15-20%)
+
 #### Develop code to support scalability of apps and services
 
 - Implement autoscaling rules and patterns

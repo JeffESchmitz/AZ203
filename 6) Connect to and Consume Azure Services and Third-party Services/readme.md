@@ -1,3 +1,5 @@
+### Connect to and Consume Azure Services and Third-party Services (20-25%)
+
 #### Develop an App Service Logic App
 
 - Create a Logic App
