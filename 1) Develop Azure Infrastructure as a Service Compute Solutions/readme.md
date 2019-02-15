@@ -1,4 +1,4 @@
-### Develop Azure Infrastructure as a Service Compute Solutions
+### Develop Azure Infrastructure as a Service Compute Solutions - (10-15%)
 
 #### Implement solutions that use virtual machines (VM)
 

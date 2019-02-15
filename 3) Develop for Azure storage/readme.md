@@ -1,3 +1,5 @@
+### Develop for Azure storage - (15-20%)
+
 ### Develop solutions that use storage tables
 
 [PluralSight: Implementing Table Storage](https://app.pluralsight.com/library/courses/microsoft-azure-table-storage-implementing/table-of-contents)
