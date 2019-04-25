@@ -7,11 +7,11 @@ Study material, links and code examples for Microsoft's AZ-203 "Developing Solut
 	- Create containerized solutions
 
 * Develop Azure Platform as a Service Compute Solutions (20-25%)
-	  Create an App Service for:
-	    - Web app
-	    - Mobile app
-	    - API apps
-	    - Implement Azure Functions
+	- Create an App Service for:
+		- Web app
+		- Mobile app
+		- API apps
+		- Implement Azure Functions
 
 * Develop for Azure storage (15-20%)
 * Implement Azure security (10-15%)
