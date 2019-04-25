@@ -24,13 +24,26 @@
 #### Implement access control
 
 - Implement CBAC (Claims-Based Access Control) authorization
+  - [Claims-based authorization](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/claims?view=aspnetcore-2.2)
+  - [Managing Microsoft Azure Active Directory](https://app.pluralsight.com/library/courses/microsoft-azure-managing-active-directory/table-of-contents)
 - Implement RBAC (Role-Based Access Control) authorization
+  - [Secure your Azure resources with role-based access control (RBAC)](https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/)
+  - [Azure Role Based Access Control](https://app.pluralsight.com/player?course=architecting-azure-solutions-70-534-secure-resources&author=orin-thomas&name=architecting-azure-solutions-70-534-secure-resources-m9&clip=0&mode=live)
+  - [Managing Microsoft Azure Role Based Access Control](https://app.pluralsight.com/library/courses/microsoft-azure-role-based-access-control-managing/table-of-contents)
 - Create shared access signatures
+  - [Shared access signatures - Blob Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-dotnet-shared-access-signature-part-2)
+  - [Getting Started with Microsoft Azure Shared Access Signatures](https://app.pluralsight.com/library/courses/microsoft-azure-access-signatures-getting-started/table-of-contents)
+  
 
 #### Implement secure data solutions
 
 - Encrypt and decrypt data at rest and in transit
+  - [Encrypting and Decrypting Data at Rest](https://app.pluralsight.com/library/courses/microsoft-azure-data-securing/table-of-contents)
+  - [ASP.NET Core Data Protection](https://docs.microsoft.com/en-us/aspnet/core/security/data-protection/introduction?view=aspnetcore-2.2)
 - Create, read, update, and delete keys, secrets, and certificates by using the KeyVault API
+  - [What is Azure Key Vault?](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview)
+  - [Manage secrets in your server apps with Azure Key Vault](https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/)
+  - [Storing Encyption Keys and Microsoft Azure Key Vault](https://app.pluralsight.com/player?course=play-by-play-enterprise-data-encryption-with-azure-revealed&author=stephen-haunts&name=play-by-play-enterprise-data-encryption-with-azure-revealed-m3&clip=0&mode=live)
 
 ## Videos
 
