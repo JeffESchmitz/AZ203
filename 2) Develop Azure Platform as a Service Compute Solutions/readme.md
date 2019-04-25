@@ -18,6 +18,7 @@
 #### Create Azure App Service mobile apps
 
 - Add push notifications for mobile apps
+  - [Setting up Push Notifications](https://app.pluralsight.com/player?course=microsoft-azure-implement-web-mobile-services&author=mike-pfeiffer&name=9ec6d79e-249c-4c81-9c1e-94e0a728cd31&clip=4)
   - [Add push notifications to your Android app](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-android-get-started-push)
   - [Push notifications to iOS apps using Azure Notification Hub](https://docs.microsoft.com/en-us/azure/notification-hubs/notification-hubs-ios-apple-push-notification-apns-get-started)
   - [Azure Mobile Service](https://app.pluralsight.com/library/courses/windows-azure-mobile-services/table-of-contents)
