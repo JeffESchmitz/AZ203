@@ -28,6 +28,7 @@
   - [Xamarin: TodoAzureAuthoOfflineSync](https://developer.xamarin.com/samples/xamarin-forms/WebServices/TodoAzureAuthOfflineSync/)
 - Implement a remote instrumentation strategy for mobile devices
   - [Use TeamViewer to remotely administer Intune devices](https://docs.microsoft.com/en-us/intune/device-profile-android-teamviewer)
+  - [Instrument Microsoft Azure Application Insights in a Web Application](https://app.pluralsight.com/library/courses/microsoft-azure-application-insights-web-application-instrument/table-of-contents)
 
 #### Create Azure App Service API apps
 
