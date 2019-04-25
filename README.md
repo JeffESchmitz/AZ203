@@ -1,4 +1,4 @@
-# AZ203
+# AZ-203
 Study material, links and code examples for Microsoft's AZ-203 "Developing Solutions for Azure" 
 
 * Develop Azure Infrastructure as a Service Compute Solutions (10-15%)
