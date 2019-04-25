@@ -2,7 +2,8 @@
 
 #### Implement authentication
 
-- Implement authentication by using certificates, forms-based authentication, or tokens
+- Implement authentication by using certificates, forms-based authentication, or tokens 
+  [Microsoft Azure Authentication Scenarios for Developers](https://app.pluralsight.com/library/courses/microsoft-azure-authentication-scenarios-developers/table-of-contents)
 - Implement multi-factor or Windows authentication by using Azure AD
 - Implement OAuth2 authentication
 - Implement Managed Service Identity (MSI)/Service Principal authentication
