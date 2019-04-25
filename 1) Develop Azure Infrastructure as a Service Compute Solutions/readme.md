@@ -15,6 +15,8 @@
 
 #### Implement batch jobs by using Azure Batch Services
 
+[Pluralsight: Microsoft Azure Batch: Getting Started](https://app.pluralsight.com/library/courses/microsoft-azure-batch-getting-started/table-of-contents)
+
 - Manage batch jobs by using Batch Service API
   - [PluralSight: Managing Batch Processing](https://app.pluralsight.com/player?course=microsoft-azure-batch-getting-started&author=alan-smith&name=5739436d-1cb3-41bf-9cdc-cd56f2137d52&clip=0&mode=live)
   - [Develop large-scale parallel comput solutions with Batch](https://docs.microsoft.com/en-us/azure/batch/batch-api-basics)
