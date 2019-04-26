@@ -58,7 +58,16 @@
 #### Develop message-based solutions
 
 - Implement solutions that use Azure Service Bus
+  - [What is Azure Service Bus?](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
+  - [Enterprise Queuing Options Inside Microsoft Azure](https://app.pluralsight.com/library/courses/microsoft-azure-enterprise-messaging-eventing/table-of-contents)
+  - [Designing Azure Storage Queues and Service Bus Queues](https://app.pluralsight.com/library/courses/microsoft-azure-messaging-architecture-designing/table-of-contents)
+  - [Implement message-based communication workflows with Azure Service Bus](https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/)
+  - [Get started with Service Bus queues](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-get-started-with-queues)
+  - [Microsoft Azure Service Bus Brokered Messaging In-depth](https://app.pluralsight.com/library/courses/microsoft-azure-service-brokered-messaging/table-of-contents)
 - Implement solutions that use Azure Queue Storage queues
+  - [Communicate between applications with Azure Queue storage](https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/)
+  - [Get started with Azure Queue storage using .NET](https://docs.microsoft.com/en-us/azure/storage/queues/storage-dotnet-how-to-use-queues)
+  - [Queue-based Load Leveling Pattern](https://app.pluralsight.com/player?course=azure-design-patterns-availability-resilience&author=barry-luijbregts&name=azure-design-patterns-availability-resilience-m5&clip=0&mode=live)
 
 ## Videos
 
