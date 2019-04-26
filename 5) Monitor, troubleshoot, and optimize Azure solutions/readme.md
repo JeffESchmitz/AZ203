@@ -15,6 +15,12 @@
 #### Integrate caching and content delivery within solutions
 
 - Store and retrieve data in Azure Redis cache
+  - [What is Azure Cache for Redis](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview)
+  - [Microsoft Azure Developer: Implementing Azure Cache](https://app.pluralsight.com/library/courses/microsoft-azure-cache-implementing/table-of-contents)
+  - [Read-only data with Redis](https://docs.microsoft.com/en-us/learn/modules/optimize-your-web-apps-with-redis/)
+  - [Mutable and partial data in Azure Cache for Redis](https://docs.microsoft.com/en-us/learn/modules/work-with-mutable-and-partial-data-in-a-redis-cache/)
+  - [Quickstart: Use Azure Cache for Redis with a .NET application](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-dotnet-how-to-use-azure-redis-cache)
+  - [Tutorial: Create a cache-aside leaderboard on ASP.NET](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-web-app-cache-aside-leaderboard)
 - Develop code to implement CDNs in solutions
 - Invalidate cache content (CDN or Redis)
 
