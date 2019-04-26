@@ -36,13 +36,24 @@
 - Configure authentication for APIs  
   - [Protect an API by using OAuth 2.0 with Azure Active Directory and API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-protect-backend-with-aad)
   - [Authenticate browser-based apps with Azure App Services](https://docs.microsoft.com/en-us/learn/modules/authenticate-browser-based-apps-with-azure-app-services/)
-- Define policies for APIs
+- Define policies for APIs  
+  - [Policies in Azure API Management](https://app.pluralsight.com/player?course=microsoft-azure-api-management-essentials&author=vishwas-lele&name=microsoft-azure-api-management-essentials-m2&clip=0&mode=live)
+  - [Azure API Management Policies](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-policies)
 
 #### Develop event-based solutions
 
-- Implement solutions that use Azure Event Grid
+- Implement solutions that use Azure Event Grid  
+  - [Designing Solutions with Azure Event Grid](https://app.pluralsight.com/library/courses/microsoft-azure-messaging-architecture-designing/table-of-contents)
+  - [Creating and Capturing Event Inside Azure with Event Grid](https://app.pluralsight.com/player?course=microsoft-azure-enterprise-messaging-eventing&author=stephen-thomas&name=0588df39-38a5-4547-a83f-37cbd1350757&clip=0&mode=live)
+  - [Azure to loosely connect your services](https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/index)
+  - [Quickstart: Route custom events](https://docs.microsoft.com/en-us/azure/event-grid/custom-event-quickstart-portal)
 - Implement solutions that use Azure Notification Hubs
+  - [Working with Azure Notification Hubs](https://app.pluralsight.com/player?course=microsoft-azure-enterprise-messaging-eventing&author=stephen-thomas&name=fe597018-c7c0-4ebe-867c-62985cf3c108&clip=0&mode=live)
+  - [Azure Notification Hubs Documentation](https://docs.microsoft.com/en-us/azure/notification-hubs/)
 - Implement solutions that use Azure Event Hub
+  - [Designing Solutions with Azure Event Hubs](https://app.pluralsight.com/player?course=microsoft-azure-messaging-architecture-designing&author=tim-warner&name=8224f00c-1b3f-4d73-8d3d-d6ccd44fc6e6&clip=0&mode=live)
+  - [Send messages to Azure Event Hub](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send)
+  - [Reliable messaging for Big Data applications using Azure Event Hubs](https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/)
 
 #### Develop message-based solutions
 
