@@ -25,6 +25,7 @@
   - [Microsoft Azure Developer: Implementing CDNs for Storage](https://app.pluralsight.com/library/courses/microsoft-azure-storage-cdns-implementing/table-of-contents)
   - [Azure CDN development](https://docs.microsoft.com/en-us/azure/cdn/cdn-app-dev-net)
   - [What is Content Delivery Network](https://docs.microsoft.com/en-us/azure/cdn/cdn-overview)
+  - [Quickstart: Use Azure Cache for Redis with a .NET application](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-dotnet-how-to-use-azure-redis-cache)
   - [Getting started on managing CDN in C#](https://azure.microsoft.com/en-us/resources/samples/cdn-dotnet-manage-cdn/)
   - [Tutorial: Add Azure CDN to an Azure App Service web app](https://docs.microsoft.com/en-us/azure/cdn/cdn-add-to-web-app)
 - Invalidate cache content (CDN or Redis)
@@ -33,8 +34,18 @@
 #### Instrument solutions to support monitoring and logging
 
 - Configure instrumentation in an app or service by using Application Insights
+  - [Instrument Microsoft Azure Application Insights in a Web Application](https://app.pluralsight.com/library/courses/microsoft-azure-application-insights-web-application-instrument/table-of-contents)
+  - [Application Insights for Azure cloud services](https://docs.microsoft.com/en-us/azure/azure-monitor/app/cloudservices)
+  - [Instrument server-side web application code with Application Insights](https://docs.microsoft.com/en-us/learn/modules/instrument-web-app-code-with-application-insights/)
+  - [What is Application Insights?](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
 - Analyze and troubleshoot solutions by using Azure Monitor
+  - [Microsoft Azure Developer: Monitoring Performance](https://app.pluralsight.com/library/courses/microsoft-azure-performance-monitoring/description)
+  - [Monitoring Microsoft Azure Resources and Workloads](https://app.pluralsight.com/library/courses/microsoft-azure-resources-workloads-monitoring/table-of-contents)
+  - [Access Metrics from your Azure Blob Storage Containers Programmatically](https://docs.microsoft.com/en-us/learn/modules/access-blob-storage-metrics-from-code/)
+  - [Gather metrics from your Azure Blob Storage containers](https://docs.microsoft.com/en-us/learn/modules/gather-metrics-blob-storage/)
 - Implement Application Insights Web Test and Alerts
+  - [Monitor availability and responsiveness of any web site](https://docs.microsoft.com/en-us/azure/azure-monitor/app/monitor-web-app-availability)
+  - [Alerts in Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/alerts)
 
 ## Videos
 
