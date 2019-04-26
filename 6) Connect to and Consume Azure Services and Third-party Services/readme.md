@@ -29,8 +29,13 @@
 
 #### Establish API Gateways
 
-- Create an APIM instance .   
-- Configure authentication for APIs
+- Create an APIM instance  
+  - [Create a new Azure API Management service instance](https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance)
+  - [Creating an API Management Service](https://app.pluralsight.com/player?course=microsoft-azure-api-management-essentials&author=vishwas-lele&name=microsoft-azure-api-management-essentials-m2&clip=5&mode=live)
+  - [Designing an API Management Strategy for Microsoft Azure](https://app.pluralsight.com/library/courses/microsoft-azure-api-management-strategy-designing/table-of-contents)
+- Configure authentication for APIs  
+  - [Protect an API by using OAuth 2.0 with Azure Active Directory and API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-protect-backend-with-aad)
+  - [Authenticate browser-based apps with Azure App Services](https://docs.microsoft.com/en-us/learn/modules/authenticate-browser-based-apps-with-azure-app-services/)
 - Define policies for APIs
 
 #### Develop event-based solutions
