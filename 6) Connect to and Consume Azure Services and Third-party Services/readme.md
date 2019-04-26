@@ -19,7 +19,7 @@
 
 - Create an Azure Search index  
   - [Create an Azure Search Index](https://app.pluralsight.com/player?course=microsoft-azure-textual-content-search-enabling&author=sahil-malik&name=579be45b-5d9c-47fb-ad3c-7452c4149faf&clip=3&mode=live)
-  - [Create basic index in Azure Search](Create a basic index in Azure Search)
+  - [Create basic index in Azure Search](https://docs.microsoft.com/en-us/azure/search/search-what-is-an-index)
 - Import searchable data  
   - [Importing Searchable Data](https://app.pluralsight.com/player?course=microsoft-azure-textual-content-search-enabling&author=sahil-malik&name=0deb72c1-cf11-4ba9-a431-df138a961f2c&clip=0&mode=live)
   - [Import data wizard for Azure Search](https://docs.microsoft.com/en-us/azure/search/search-import-data-portal)
