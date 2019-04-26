@@ -2,7 +2,7 @@
 
 #### Develop an App Service Logic App
 
-- Create a Logic App
+- Create a Logic App  
   - [Microsoft Azure Developer: Creating Enterprise Logic Apps](https://app.pluralsight.com/library/courses/microsoft-azure-enterprise-logic-app-creating/table-of-contents)
   - [Azure Logic Apps: Fundamentals](https://app.pluralsight.com/library/courses/azure-logic-apps-fundamentals/table-of-contents)
   - [Call an API from a Logic Apps workflow using a custom connector](https://docs.microsoft.com/en-us/learn/modules/logic-apps-and-custom-connectors/)
@@ -24,7 +24,7 @@
 
 #### Establish API Gateways
 
-- Create an APIM instance
+- Create an APIM instance .   
 - Configure authentication for APIs
 - Define policies for APIs
 
