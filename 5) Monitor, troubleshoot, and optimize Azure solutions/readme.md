@@ -22,7 +22,13 @@
   - [Quickstart: Use Azure Cache for Redis with a .NET application](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-dotnet-how-to-use-azure-redis-cache)
   - [Tutorial: Create a cache-aside leaderboard on ASP.NET](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-web-app-cache-aside-leaderboard)
 - Develop code to implement CDNs in solutions
+  - [Microsoft Azure Developer: Implementing CDNs for Storage](https://app.pluralsight.com/library/courses/microsoft-azure-storage-cdns-implementing/table-of-contents)
+  - [Azure CDN development](https://docs.microsoft.com/en-us/azure/cdn/cdn-app-dev-net)
+  - [What is Content Delivery Network](https://docs.microsoft.com/en-us/azure/cdn/cdn-overview)
+  - [Getting started on managing CDN in C#](https://azure.microsoft.com/en-us/resources/samples/cdn-dotnet-manage-cdn/)
+  - [Tutorial: Add Azure CDN to an Azure App Service web app](https://docs.microsoft.com/en-us/azure/cdn/cdn-add-to-web-app)
 - Invalidate cache content (CDN or Redis)
+
 
 #### Instrument solutions to support monitoring and logging
 
